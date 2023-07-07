@@ -1,0 +1,191 @@
+.app-component-container {
+  width: 266px;
+  height: 240px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.app-component-vector {
+  left: 58.203125px;
+  width: 150px;
+  bottom: 43.84375px;
+  height: 51px;
+  position: absolute;
+}
+.app-component-vector1 {
+  top: 47.265625px;
+  left: 49.890625px;
+  width: 79px;
+  height: 105px;
+  position: absolute;
+}
+.app-component-vector2 {
+  top: 47.265625px;
+  right: 49.640625px;
+  width: 75px;
+  height: 105px;
+  position: absolute;
+}
+.app-component-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 240px;
+  position: absolute;
+}
+.app-component-vector4 {
+  top: 91.140625px;
+  left: 95.625px;
+  width: 75px;
+  height: 57px;
+  position: absolute;
+}
+.app-component-root-class-name {
+  top: 141px;
+  right: -143px;
+  position: absolute;
+}
+
+.desktop1button-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1button-desktop1button {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1button-loading-page {
+  top: 0px;
+  left: 0px;
+  width: 1080px;
+  height: 1016px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1button-image12 {
+  top: -15px;
+  left: -1px;
+  width: 1920px;
+  height: 1037px;
+  position: absolute;
+}
+.desktop1button-blackand-white-collection2 {
+  top: 119px;
+  left: 456px;
+  width: 528.5px;
+  height: 429.08447265625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1button-group {
+  top: 0px;
+  left: 0px;
+  width: 528.5px;
+  height: 429.08447265625px;
+  display: flex;
+  opacity: 0.10;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop1button-vector {
+  top: 418.9582214355469px;
+  left: 516.027587890625px;
+  width: 12px;
+  height: 10px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector1 {
+  top: 429.08447265625px;
+  left: 24.44603157043457px;
+  width: 468px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector2 {
+  top: 418.9582214355469px;
+  left: 5.6843418860808015e-14px;
+  width: 12px;
+  height: 10px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector3 {
+  top: 19.847030639648438px;
+  left: 5.6843418860808015e-14px;
+  width: 0px;
+  height: 380px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector4 {
+  top: 0px;
+  left: 0px;
+  width: 12px;
+  height: 10px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector5 {
+  top: 0px;
+  left: 36.41961669921875px;
+  width: 468px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector6 {
+  top: 0px;
+  left: 516.027587890625px;
+  width: 12px;
+  height: 10px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-vector7 {
+  top: 29.56890106201172px;
+  left: 528.4999389648438px;
+  width: 0px;
+  height: 380px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop1button-text {
+  top: 530px;
+  color: rgba(215, 219, 255, 1);
+  right: -488px;
+  width: 647px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: K2D;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1button-fisrspinneralt {
+  top: 620px;
+  right: 25px;
+  width: 125px;
+  height: 114px;
+  position: absolute;
+}

@@ -1,0 +1,47 @@
+.component-container {
+  width: 266px;
+  height: 240px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+}
+.component-vector {
+  left: 58.203125px;
+  width: 150px;
+  bottom: 43.84375px;
+  height: 51px;
+  position: absolute;
+}
+.component-vector1 {
+  top: 47.265625px;
+  left: 49.890625px;
+  width: 79px;
+  height: 105px;
+  position: absolute;
+}
+.component-vector2 {
+  top: 47.265625px;
+  right: 49.640625px;
+  width: 75px;
+  height: 105px;
+  position: absolute;
+}
+.component-vector3 {
+  top: 0px;
+  left: 0px;
+  width: 266px;
+  height: 240px;
+  position: absolute;
+}
+.component-vector4 {
+  top: 91.140625px;
+  left: 95.625px;
+  width: 75px;
+  height: 57px;
+  position: absolute;
+}
+.component-root-class-name {
+  top: 141px;
+  right: -143px;
+  position: absolute;
+}

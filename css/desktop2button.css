@@ -1,0 +1,369 @@
+.desktop2button-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: flex-start;
+  flex-direction: row;
+  justify-content: center;
+}
+.desktop2button-desktop2button {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop2button-first-page-default {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1022px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(77, 89, 150, 1);
+}
+.desktop2button-image12 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1026px;
+  position: absolute;
+}
+.desktop2button-rectangle2 {
+  top: 943px;
+  left: -4px;
+  width: 1920px;
+  height: 79px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop2button-rectangle1 {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 82px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 0.10000000149011612px;
+}
+.desktop2button-vector {
+  top: 552px;
+  left: 4px;
+  width: 781px;
+  height: 297px;
+  position: absolute;
+  border-color: var(--dl-color-gray-black);
+  border-style: hidden;
+  border-width: 1px;
+}
+.desktop2button-textapresentacao {
+  top: 230px;
+  left: -9px;
+  width: 1920px;
+  height: 216px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-primary-100);
+}
+.desktop2button-text {
+  top: 85px;
+  left: 90px;
+  color: rgba(215, 219, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Regular;
+  text-align: left;
+  font-family: K2D;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2button-text2 {
+  top: 29px;
+  left: 98px;
+  color: rgba(215, 219, 255, 1);
+  width: 1053px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: K2D;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2button-frame1 {
+  top: 45px;
+  left: 14px;
+  width: 645px;
+  height: 119px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop2button-text4 {
+  top: 48.746986389160156px;
+  left: 121.31661987304688px;
+  color: rgba(215, 219, 255, 1);
+  width: 202px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: K2D;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2button-blackand-white-collection2 {
+  top: 0px;
+  left: 0px;
+  width: 142.42901611328125px;
+  height: 124.66666412353516px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2button-group {
+  top: 0px;
+  left: 0px;
+  width: 142.42901611328125px;
+  height: 124.66666412353516px;
+  display: flex;
+  opacity: 0.10;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2button-vector01 {
+  top: 121.72456359863281px;
+  left: 139.0677490234375px;
+  width: 3px;
+  height: 3px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector02 {
+  top: 124.66666412353516px;
+  left: 6.58812141418457px;
+  width: 126px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector03 {
+  top: 121.72456359863281px;
+  left: 0px;
+  width: 3px;
+  height: 3px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector04 {
+  top: 5.766391277313232px;
+  left: 0px;
+  width: 0px;
+  height: 110px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector05 {
+  top: 0px;
+  left: 0px;
+  width: 3px;
+  height: 3px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector06 {
+  top: -1.0024080632393961e-13px;
+  left: 9.814970970153809px;
+  width: 126px;
+  height: 1px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector07 {
+  top: -1.0024080632393961e-13px;
+  left: 139.0677490234375px;
+  width: 3px;
+  height: 3px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector08 {
+  top: 8.590962409973145px;
+  left: 142.42901611328125px;
+  width: 0px;
+  height: 110px;
+  opacity: 0.10;
+  position: absolute;
+}
+.desktop2button-vector09 {
+  top: 73.55252838134766px;
+  left: 50.419342041015625px;
+  width: 40px;
+  height: 15px;
+  position: absolute;
+}
+.desktop2button-vector10 {
+  top: 45.11220932006836px;
+  left: 48.17847442626953px;
+  width: 21px;
+  height: 30px;
+  position: absolute;
+}
+.desktop2button-vector11 {
+  top: 45.11220932006836px;
+  left: 72.82794189453125px;
+  width: 20px;
+  height: 30px;
+  position: absolute;
+}
+.desktop2button-vector12 {
+  top: 31.382431030273438px;
+  left: 34.73333740234375px;
+  width: 72px;
+  height: 70px;
+  position: absolute;
+}
+.desktop2button-vector13 {
+  top: 57.85999298095703px;
+  left: 60.5045166015625px;
+  width: 20px;
+  height: 17px;
+  position: absolute;
+}
+.desktop2button-saldo-conta {
+  top: 428px;
+  left: 87px;
+  width: 427px;
+  height: 162px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: flex-start;
+}
+.desktop2button-text6 {
+  top: 21px;
+  left: 8px;
+  color: rgb(255, 255, 255);
+  width: 221px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: K2D;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop2button-text7 {
+  color: rgb(255, 255, 255);
+  width: auto;
+  height: auto;
+  font-size: 30px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: K2D;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration:   none;
+}
+.desktop2button-frame133536 {
+  right: -5px;
+  width: 1920px;
+  bottom: 0px;
+  height: 160px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop2button-fisrhome {
+  top: 92px;
+  left: 21px;
+  width: 60px;
+  height: 58px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop2button-group1 {
+  top: 0.017279693856835365px;
+  left: -0.0000037845732094865525px;
+  width: 60px;
+  height: 57.963890075683594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2button-vector14 {
+  top: 36.2129020690918px;
+  left: 22.5px;
+  width: 15px;
+  height: 22px;
+  position: absolute;
+}
+.desktop2button-group2 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 57.963890075683594px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.desktop2button-vector15 {
+  top: 0px;
+  left: 0px;
+  width: 60px;
+  height: 58px;
+  position: absolute;
+}
+.desktop2button-vector16 {
+  top: 36.2129020690918px;
+  left: 22.5px;
+  width: 15px;
+  height: 22px;
+  position: absolute;
+}
+.desktop2button-fisralignjustify {
+  top: 28px;
+  right: 45px;
+  width: 88px;
+  height: 62px;
+  position: absolute;
+}
